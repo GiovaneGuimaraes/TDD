@@ -98,11 +98,4 @@ public class TemperaturaValores {
         return contadorAcimaMedia;
     }
 
-//    public static Object verifyError(int valor){
-//        if(valor == -1){
-//            return "Error";
-//        }
-//        return valor;
-//    }
-
 }
